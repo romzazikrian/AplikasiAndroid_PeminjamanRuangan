@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153356541863",
+    "project_id": "roominterior-c2c90",
+    "storage_bucket": "roominterior-c2c90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153356541863:android:e4f9e19b6327ac7d61a082",
+        "android_client_info": {
+          "package_name": "com.room.interior"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153356541863-fekqgkon8h5t7024hdvt8p3v5u7hj19d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEpJfuzqcPNVpAqlJDF84nIB7KqSrGoYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153356541863-fekqgkon8h5t7024hdvt8p3v5u7hj19d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
